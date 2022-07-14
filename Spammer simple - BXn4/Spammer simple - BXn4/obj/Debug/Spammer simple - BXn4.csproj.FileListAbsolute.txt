@@ -1,0 +1,6 @@
+c:\users\bence\documents\visual studio 2015\Projects\Spammer simple - BXn4\Spammer simple - BXn4\bin\Debug\Spammer simple - BXn4.exe.config
+c:\users\bence\documents\visual studio 2015\Projects\Spammer simple - BXn4\Spammer simple - BXn4\bin\Debug\Spammer simple - BXn4.exe
+c:\users\bence\documents\visual studio 2015\Projects\Spammer simple - BXn4\Spammer simple - BXn4\bin\Debug\Spammer simple - BXn4.pdb
+c:\users\bence\documents\visual studio 2015\Projects\Spammer simple - BXn4\Spammer simple - BXn4\obj\Debug\Spammer simple - BXn4.csprojResolveAssemblyReference.cache
+c:\users\bence\documents\visual studio 2015\Projects\Spammer simple - BXn4\Spammer simple - BXn4\obj\Debug\Spammer simple - BXn4.exe
+c:\users\bence\documents\visual studio 2015\Projects\Spammer simple - BXn4\Spammer simple - BXn4\obj\Debug\Spammer simple - BXn4.pdb

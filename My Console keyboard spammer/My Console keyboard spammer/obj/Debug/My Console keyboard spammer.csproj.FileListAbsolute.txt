@@ -1,0 +1,6 @@
+C:\Users\Bence\Documents\Visual Studio 2015\Projects\My Console keyboard spammer\My Console keyboard spammer\bin\Debug\My Console keyboard spammer.exe.config
+C:\Users\Bence\Documents\Visual Studio 2015\Projects\My Console keyboard spammer\My Console keyboard spammer\bin\Debug\My Console keyboard spammer.exe
+C:\Users\Bence\Documents\Visual Studio 2015\Projects\My Console keyboard spammer\My Console keyboard spammer\bin\Debug\My Console keyboard spammer.pdb
+C:\Users\Bence\Documents\Visual Studio 2015\Projects\My Console keyboard spammer\My Console keyboard spammer\obj\Debug\My Console keyboard spammer.csprojResolveAssemblyReference.cache
+C:\Users\Bence\Documents\Visual Studio 2015\Projects\My Console keyboard spammer\My Console keyboard spammer\obj\Debug\My Console keyboard spammer.exe
+C:\Users\Bence\Documents\Visual Studio 2015\Projects\My Console keyboard spammer\My Console keyboard spammer\obj\Debug\My Console keyboard spammer.pdb
